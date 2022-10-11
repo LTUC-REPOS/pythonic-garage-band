@@ -2,7 +2,7 @@
 
 <br>
 
-https://github.com/Slow-Res/pythonic-garage-band/pull/1
+PR: https://github.com/Slow-Res/pythonic-garage-band/pull/1
 
 <br>
 
