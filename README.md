@@ -1,31 +1,66 @@
-# LAB - Class xx
+# LAB - Class 4
 
-## Project: Project Name Here
 
-### Author: Student/Group Name
+<br>
 
-### Links and Resources
+## Project: Pythonic Garage Band
 
-- Link01
-- Link02
+<br>
 
-### Setup
+## Author: Abdelrahman Alasal
 
-#### `.env` requirements (where applicable)
+<br>
 
-i.e.
 
-- `PORT` - Port Number
-- `DATABASE_URL` - URL to the running Postgres instance/db
+## Links and Resources : None
 
-#### How to initialize/run your application (where applicable)
+<br>
 
-- e.g. `python main.py`
+## Setup:
 
-#### How to use your library (where applicable)
+<br>
 
-#### Tests
 
-- How do you run tests?
-- Any tests of note?
-- Describe any tests that you did not complete, skipped, etc
+> Python 3.9.5 <br>
+
+> pytest 7.1.3 <br>
+
+<br>
+
+
+## .env requirements (where applicable): None 
+
+<br>
+
+
+## Entry point : \pythonic_garage_band\band.py
+
+<br>
+
+> `python \pythonic_garage_band\band.py`
+
+<br>
+
+## Tests
+
+### How do you run tests?
+
+<br>
+
+> After assigning folders as packages (__ init __), we use command: 'pytest'
+
+<br>
+
+### Any tests of note?
+
+<br>
+
+> None
+
+<br>
+
+### Describe any tests that you did not complete, skipped, etc
+
+<br>
+
+> None 
